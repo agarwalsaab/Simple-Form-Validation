@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	text-align: center;
+	background-color: #ef5e15;	
+}
+#head{
+	font-family:Segoe Print;
+	font-size: 80px;
+	text-decoration: underline;
+	margin-bottom: 80px;
+	margin-top: 40px;
+}
+form{
+	display: inline-block;
+	text-align: center;
+	border: 5px solid black;
+	padding: 40px;
+	width: 50%;
+	margin:0;
+}
+p{
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: underline;
+	font-family: Times New Roman;
+}
+label{
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.bhead{
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: impact;
+}
+#b1{
+	height: 400px;
+	margin-left: 20px;
+	width: 48%;
+	border: 2px solid black;
+	float: left;
+}
+#b2{
+	float: right;
+	width: 48%;
+	border: 2px solid black;
+	margin-right: 20px;
+	height: 400px;
+
+}
+li{
+	text-align: left;
+	padding: 5px;
+	margin-left: 20px;
+	font-size: 25px;
+}
+ul{
+	margin-top: 30px;
+}
